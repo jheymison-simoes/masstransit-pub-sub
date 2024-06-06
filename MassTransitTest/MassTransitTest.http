@@ -1,0 +1,6 @@
+@MassTransitTest_HostAddress = http://localhost:5173
+
+GET {{MassTransitTest_HostAddress}}/MassTransit/
+Accept: application/json
+
+###
